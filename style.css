@@ -1,0 +1,15 @@
+.col-md-5{
+    margin-top: 150px !important;
+}
+li{
+    list-style-type: none;
+    font-size: 18px;
+    text-align: center;
+    width: 70%;
+    display: inline;
+    margin: 10px;
+}
+i{
+    color: red;
+    cursor: pointer;
+}
